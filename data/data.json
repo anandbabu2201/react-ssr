@@ -1,0 +1,74 @@
+[
+  { "id": 0,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+  },
+  { "id": 1,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 2,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 3,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 4,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 5,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+   { "id": 6,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management."  
+  },
+  { "id": 7,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 8,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 9,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 10,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 11,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+   { "id": 12,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management."  
+  },
+  { "id": 13,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 14,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 15,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 16,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   },
+  { "id": 17,
+    "animation": "card",
+    "description": "sample data to check the server side rendering from nextJs and react with redux state management." 
+   }
+]
